@@ -12,8 +12,6 @@ A simple portfolio website to showcase my projects and skills. This project high
   - CSS
   - JavaScript
 
-- **Live Demo:** [Link to Portfolio](#)
-
 ### 2. To-Do List
 A dynamic to-do list application where users can add, edit, delete, and mark tasks as completed.
 
@@ -28,7 +26,6 @@ A dynamic to-do list application where users can add, edit, delete, and mark tas
   - CSS
   - JavaScript
 
-- **Live Demo:** [Link to To-Do List](#)
 
 ### 3. Weather App
 A weather application that provides current weather information for any city. This project involves API integration and real-time data handling.
@@ -44,7 +41,6 @@ A weather application that provides current weather information for any city. Th
   - JavaScript
   - OpenWeatherMap API
 
-- **Live Demo:** [Link to Weather App](#)
 
 ## About the Internship
 During my internship at CodXo, I developed these projects to hone my skills in web development. The experience allowed me to apply my knowledge in a practical environment, improve my coding practices, and learn new technologies.
