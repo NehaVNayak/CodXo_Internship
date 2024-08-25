@@ -54,4 +54,4 @@ To run any of the projects locally:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/CodXo_Internship.git
+   git clone https://github.com/NehaVNayak/CodXo_Internship.git
