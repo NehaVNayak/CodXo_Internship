@@ -5,13 +5,7 @@ This repository contains the projects I worked on during my internship at CodXo.
 ## Projects
 
 ### 1. Personal Portfolio
-A simple, responsive portfolio website to showcase my projects and skills. This project highlights my proficiency in front-end development and design.
-
-- **Features:**
-  - Responsive design
-  - About me section
-  - Projects showcase
-  - Contact form
+A simple portfolio website to showcase my projects and skills. This project highlights my proficiency in front-end development and design.
 
 - **Technologies Used:**
   - HTML
